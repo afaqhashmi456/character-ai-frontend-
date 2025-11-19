@@ -1,0 +1,19 @@
+# Local
+.DS_Store
+*.local
+*.log*
+
+# Environment
+.env
+
+# Dist
+node_modules
+dist/
+
+# Profile
+.rspack-profile-*/
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
